@@ -29,7 +29,7 @@ Lataa aineisto Kagglesta ja tallenna se projektihakemistoon `data/house_data.csv
 1. Kloonaa tämä arkisto omalle koneellesi:
     ```bash
     git clone https://github.com/Mainm0e/Asuntojen-hintojen-ennustaminen-datan.git
-    cd house-price-prediction
+    cd Asuntojen-hintojen-ennustaminen-datan
     ```
 2. Asenna Python ja Jupyter Notebook, jos niitä ei ole asennettu:
     ```bash
@@ -44,7 +44,7 @@ Lataa aineisto Kagglesta ja tallenna se projektihakemistoon `data/house_data.csv
 
 1. **Avaa Jupyter Notebook:**
    ```bash
-   jupyter notebook house_price_prediction.ipynb
+   jupyter notebook asuntojen-hintojen-ennustaminen-datan.ipynb
    ```
 2. **Suorita notebookin solut**:
    - Lataa ja esikäsittele aineisto.
