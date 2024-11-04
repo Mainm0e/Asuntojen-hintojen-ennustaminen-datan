@@ -44,7 +44,7 @@ Lataa aineisto Kagglesta ja tallenna se projektihakemistoon `data/house_data.csv
 
 1. **Avaa Jupyter Notebook:**
    ```bash
-   jupyter notebook asuntojen-hintojen-ennustaminen-datan.ipynb
+   jupyter notebook
    ```
 2. **Suorita notebookin solut**:
    - Lataa ja esikäsittele aineisto.
@@ -58,14 +58,11 @@ house-price-prediction/
 ├── data/
 │   └── house_data.csv               # Data-aineisto
 ├── notebooks/
-│   └── house_price_prediction.ipynb # Pääasiallinen Jupyter Notebook
+│   └── Asuntojen-hintojen-ennustaminen-datan.ipynb # Pääasiallinen Jupyter Notebook
+│   └── Asuntomarkkina_analyysi.ipynb # Pääasiallinen Jupyter Notebook
 ├── README.md                        # Projektin dokumentaatio
 └── requirements.txt                 # Python-riippuvuudet
 ```
-
-## Osallistuminen
-
-Kaikki ovat tervetulleita osallistumaan! Forkkaa arkisto ja luo pull request ehdottaaksesi muutoksia.
 
 ## Lisenssi
 
